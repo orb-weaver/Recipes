@@ -1,0 +1,45 @@
+body {
+  background-color: #FFFFE0;
+  font-family: Verdana, sans-serif;
+}
+
+h2 {
+  color: #0008FF;
+}
+
+.quantity {
+  font-weight: bold;
+}
+
+.makes {
+  color: #FF0000;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+a:link { /* unvisited link */
+  color: #FF0000; 
+  text-decoration: none; 
+  font-weight: 600;
+}      
+a:visited { /* visited link */
+  color: #00FF00; 
+  text-decoration: none; 
+  font-weight: 600;
+}  
+a:hover { /* mouse over link */
+  color: #FF00FF; 
+  text-decoration: none; 
+  font-weight: 600;
+}  
+a:active { /* selected link */
+  color: #0000FF; 
+  text-decoration: none; 
+  font-weight: 600;
+}  
